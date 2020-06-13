@@ -1,0 +1,19 @@
+{
+  "name": "linkapitest",
+  "version": "1.0.0",
+  "description": "Uma integrção com as plataformas Pipedrive e Bling para teste na LinkApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giovanni Antunes Bonin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "mongoose": "^5.9.18",
+    "pipedrive": "^10.4.3",
+    "xml2json": "^0.12.0"
+  }
+}
